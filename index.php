@@ -1,2 +1,2 @@
 <?php
-echo "孙守利shiwoerzi";
+echo "Let's go.";
